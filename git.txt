@@ -1,0 +1,61 @@
+git config
+
+git config user.name "Name"
+git config user.email "explane@gmail.com"
+
+git config --global user.name "Name"
+git config --global user.email "explane@gmail.com"
+
+
+git init
+
+git add <file name>
+git add --all
+git add -A
+git add .
+
+git status
+
+git commit
+git commit -m "Your Message"
+
+git commit -am "Your Message"
+git add -A && git commit -m "Your Message"
+
+
+git reset
+git reset soft HEAD~
+git reset HEAD~
+git reset --hard HEAD~
+
+															git revert HEAD
+
+git log
+git log --oneline
+
+git clone URL
+git clone URL foder_name
+
+git remote add origin Github_URL
+
+git push -u origin master
+git push origin master -f
+														git push origin master --force
+git push
+
+git pull
+
+														git fetch
+
+git restore <file name>
+												git restore .
+
+git show <Serial Number>
+git checkout <Serial Number>
+
+git branch
+git branch branchNmae
+git checkout branchNmae
+git merge branchNmae
+git branch -D branchNmae
+
