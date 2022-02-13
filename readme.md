@@ -7,7 +7,7 @@
 <p>Git File Download then install</p>  
 <!-- <a href="https://git-scm.com/">fhttps://git-scm.com/dfdf<a> -->
 
-## Git Config
+## Git Config Commands
 
 ```git
 
@@ -16,13 +16,13 @@ git config --global user.email "explane@gmail.com"
 
 ```
 
-# Git file Initialize
+# Git file Initialize Commands
 
 ```
 git init
 ```
 
-# Git file add
+# Git file add Commands
 
 ```
 git add <file name>
