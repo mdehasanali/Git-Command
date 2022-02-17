@@ -1,16 +1,17 @@
 <!-- Readme MarkDown Create for Git and Github -->
 
-<h1>আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহি ওয়াবারকাতুহু  </h1>
+# আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহি ওয়াবারকাতুহু
 
 ## Git Downoad
 
 - Download and install git on your pc: https://git-scm.com/
 - check git version: open terminal or cmd then use the command `git --version` to find out whether git is installed or not. if git is installed it will return a version number of git.
+
 <p>Git File Download then install</p>
 
 ## Github Account Create
 
-- sign in to your github account
+- sign in to your github account (https://www.github.com)
 - create a git repository
 
 ## Git Config Commands
@@ -35,6 +36,8 @@ git config --global user.email "explane@gmail.com"
 ```
 
 # Git file Initialize Commands
+
+git file Initialize korar jonno ati use kora hoi
 
 ```
 
@@ -64,6 +67,8 @@ git add .
 
 # Git Update Status Commands
 
+update check for git
+
 ```
 
 git status
@@ -73,10 +78,6 @@ git status
 # Git message Commands
 
 - `git commit -m "message"` move the file to local repository from stagging area
-- `git log` check the commit history
-- `git reset --soft HEAD^` uncommit the commit in HEAD and move to staging area
-- `git reset HEAD^` uncommit the commit in HEAD and move to unstaging / working area
-- `git reset --hard HEAD^` uncommit the commit in HEAD and delete the commit completely with all the changes
 
 ```
 
@@ -96,6 +97,10 @@ git add -A && git commit -m "Your Message"
 
 # Git reset Commands
 
+- `git reset --soft HEAD^` uncommit the commit in HEAD and move to staging area
+- `git reset HEAD^` uncommit the commit in HEAD and move to unstaging / working area
+- `git reset --hard HEAD^` uncommit the commit in HEAD and delete the commit completely with all the changes
+
 ```
 
 git reset
@@ -109,11 +114,14 @@ git reset --hard HEAD~
 
 ```
 
-git revert HEAD
+git revert (commit-id)
+git revert HEAD (commit-id)
 
 ```
 
 # Git All Ditails Show Commands
+
+- `git log` check the commit history
 
 ```
 
