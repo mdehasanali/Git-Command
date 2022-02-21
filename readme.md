@@ -60,6 +60,17 @@ git init
 
 ```
 
+# Git file Initialize remove Commands
+
+git file Initialize remove
+
+```
+
+rm -rf .git
+
+
+```
+
 # Git file staging Commands
 
 1.  adding files to stagging area:
