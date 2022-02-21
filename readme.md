@@ -2,6 +2,21 @@
 
 # আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহি ওয়াবারকাতুহু
 
+1. git?
+   - git is a version control software
+   - It keep track of code changes
+   - It helps to collaborate in a project
+   - It is installed and maintained locally
+   - It provides Command Line Interface (CLI)
+   - Released in April 7, 2005
+   - Developed by Linus Torvalds & Junio C Hamano
+2. github?
+   - GitHub is a hosting service where we can keep our git repositiory/folders
+   - It is maintained on cloud/web
+   - It provides Graphical User Interface (GUI)
+   - Founded in 2008
+
+
 ## Git Downoad
 
 - Download and install git on your pc: https://git-scm.com/
